@@ -1,6 +1,8 @@
 # pigemshubshop
 # Flutter 3.10.5
 
+Working with Firebase and Firestore database
+
 
 ## 📱 Screenshots
 
