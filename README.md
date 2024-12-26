@@ -7,6 +7,7 @@ E commerce Application with Flavours to setup (Admin and User App in one code ba
 ## 📱 Screenshots
 
 
+
 | SignUp Screen                                              |                                                   Login                                      |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/pigemshub-open/assets/30916033/7c8e5b91-a1eb-40bb-9f2a-5a2a12915509">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/pigemshub-open/assets/30916033/2396e0b3-608b-48af-b8f1-fbe4d3ca4bff">|
