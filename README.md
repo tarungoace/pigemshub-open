@@ -16,7 +16,6 @@ E commerce Application with Flavours to setup (Admin and User App in one code ba
 
 
 
-
 |  Home Screen                                        |                                                   Product Details                                 |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/pigemshub-open/assets/30916033/b00c1318-a35b-4282-b75a-376c97eae134">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/pigemshub-open/assets/30916033/261f6c9d-f827-4988-b01d-31c743ceae38">|
